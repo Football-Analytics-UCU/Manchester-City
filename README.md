@@ -24,12 +24,16 @@ https://github.com/koenvo/wyscout-soccer-match-event-dataset/tree/main/processed
 
 has ~1670 events per game, multiple games (but a bit dated, up to 2018.
 
+### SoccerData (w/ WhoScored)
+Requires Selenium & chrome installation:
+
+https://soccerdata.readthedocs.io/en/latest/datasources/WhoScored.html
+
 ### Youtube
 https://www.youtube.com/watch?v=NfzkB0v31Pg - full game MU - MC, may require VPN via UK.
 
 ## Datasets that other teams may be interested in
 https://statsbomb.com/news/the-2015-16-big-5-leagues-free-data-release-la-liga/
-
 
 ## Frameworks and libs
 https://dash.plotly.com/
