@@ -1,0 +1,6 @@
+socceraction
+matplotlib
+matplotsoccer
+pandas
+mplsoccer
+soccerdata
